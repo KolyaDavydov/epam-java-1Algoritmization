@@ -29,8 +29,7 @@ public class Task16 {
 		return sum;
 	}
 	
-	
-	private static void howManyEvenDigit(int num) {
+		private static void howManyEvenDigit(int num) {
 		int counter = 0;
 		
 		int[] array = numToArrayOfDigit(num);
