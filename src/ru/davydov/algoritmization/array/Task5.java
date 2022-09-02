@@ -2,11 +2,11 @@ package ru.davydov.algoritmization.array;
 
 import java.util.Arrays;
 
-/* 5. Даны целые числа а1 ,а2 ,..., аn . Вывести на печать только те числа, для которых аi > i
+/*
+	5. Даны целые числа а1 ,а2 ,..., аn . Вывести на печать только те числа, для которых аi > i
 */
 
-
-public class task5 {
+public class Task5 {
 
 	public static void main(String[] args) {
 		int[] array = new int[20];

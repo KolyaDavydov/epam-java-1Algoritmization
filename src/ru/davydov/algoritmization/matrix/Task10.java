@@ -3,7 +3,7 @@ package ru.davydov.algoritmization.matrix;
 import java.util.Arrays;
 
 /*
- 10. Найти положительные элементы главной диагонали квадратной матрицы.
+ 	10. Найти положительные элементы главной диагонали квадратной матрицы.
  */
 
 public class Task10 {
